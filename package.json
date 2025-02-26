@@ -2,7 +2,7 @@
   "name": "react-essentials-deep-dive-adv",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/varshith-ganji/02-techgrit-react",
+  "homepage": "https://varshith-ganji.github.io/02-techgrit-react",
   "type": "module",
   "scripts": {
     "dev": "vite",
